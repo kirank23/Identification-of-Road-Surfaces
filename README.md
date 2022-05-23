@@ -8,13 +8,13 @@ A Road Surface Segmentation and Identification based solution assisting in adapt
 
 Keywords - Road surface, vehicles, ADAS.
 
-## Project Overview
+### Project Overview
 
 The primary purpose of this project is to find irregularities in road surface patterns and also finding speed bumps or any other things which can be relevant for vehicular navigation in an Advanced Driver Assistance System (ADAS). 
 
 For example, identifying if the road has cracks, is made up of asphalt or cobblestone or is an unpaved dirt road. The results of this can then be integrated into an Advanced Driver Assistance System (ADAS) which can aid autonomous vehicles. This will help in adapting to the way the vehicles are driven and can be used to create an entire navigation system which can detect such patterns on the road thereby allowing communication between vehicles connected in a network. 
 
-## Introduction
+### Introduction
 
 Why is identification of road surfaces important?
 
@@ -22,11 +22,11 @@ In today's world, numerous technologies in the field of autonomous vehicles, suc
 
 The identification of road surfaces provides important information for the way a vehicle should be driven, whether by a human or by an autonomous vehicle. In addition to passenger comfort and vehicle maintenance, it involves the safety of everyone as well. 
 
-## Source of Data Collection - Dataset
+### Source of Data Collection - Dataset
 
 RTK (Road Traversing Knowledge) dataset from LAPIX
 
-## Description of Methodology
+### Description of Methodology
 
 1. Training Data
 
@@ -52,11 +52,11 @@ For the data augmentation step, standard options from the fastai library were us
 <img width="627" alt="Screenshot 2022-05-19 at 6 59 36 PM" src="https://user-images.githubusercontent.com/79298507/169305099-a3c5dc31-0675-42c5-9b29-2f4e47d5cb99.png">
 <img width="627" alt="Screenshot 2022-05-19 at 7 00 02 PM" src="https://user-images.githubusercontent.com/79298507/169305104-f6f7877b-e0a6-44fa-94d3-0c2c870004cf.png">
 
-## Conclusion
+### Conclusion
 
 With the ever growing demand for personal mobility vehicles, the spread of autonomous driving technology is expected to accelerate to ensure safe driving for the passengers. However until now the developments in autonomous driving technology had concentrated only on ordinary vehicles, which assumed that the road surfaces are in perfect conditions for driving safely. 
 
-## References
+### References
 
 [1] T. Rateke, A. von Wangenheim. “Road surface detection and differentiation considering surface damages”, (2020), Autonomous Robots (Springer).
 
